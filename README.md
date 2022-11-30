@@ -38,7 +38,7 @@
 
 
 
-![Python](./github/icons/python.svg =100x20)
+![Python](github/icons/python.svg)
 
     
 
